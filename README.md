@@ -13,7 +13,7 @@ $ git clone https://github.com/LuckyJMax/Password-Generator.git
 
 $ cd Password-Generator
 
-$ python password generator
+$ python PasswordGenerator.py
 
 
 
