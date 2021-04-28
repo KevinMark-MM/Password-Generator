@@ -11,7 +11,9 @@ $ pkg install git
 
 $ git clone https://github.com/LuckyJMax/Password-Generator.git
 
-$ cd password generator
+$ cd Password-Generator
+
+$ python password generator
 
 
 
