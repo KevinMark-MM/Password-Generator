@@ -18,4 +18,4 @@ $ python PasswordGenerator.py
 
 
 
-
+<img src="password generator.jpg">
