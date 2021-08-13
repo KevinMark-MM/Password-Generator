@@ -1,6 +1,6 @@
 # Password-Generator
 
-``#Installation``
+## [+] Installation
 
 $ ```pkg update && pkg upgrade```
 
@@ -10,6 +10,8 @@ $ ```pkg install python```
 $ ```pkg install git```
 
 $ ```git clone https://github.com/LuckyJMax/Password-Generator.git```
+
+## [+] How to use
 
 $ ```cd Password-Generator```
 
