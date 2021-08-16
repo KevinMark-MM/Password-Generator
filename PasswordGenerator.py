@@ -1,5 +1,7 @@
 
 #                  CODE BY LuckyJMax
+import subprocess
+subprocess.call(['sh', './clear.sh'])
 
 import random
 
