@@ -9,7 +9,7 @@ $ ```pkg install python```
 
 $ ```pkg install git```
 
-$ ```git clone https://github.com/LuckyJMax/Password-Generator.git```
+$ ```git clone https://github.com/KevinMark-MM/Password-Generator.git```
 
 ## [+] How to use
 
